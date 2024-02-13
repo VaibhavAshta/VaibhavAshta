@@ -3,7 +3,7 @@
     width="30px"> and a Design Dynamo <img
     src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, endlessly enhancing,
   exploring, and evolving.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br><br>
 - 🌱 I’m currently learning **Java, DSA, React Native**
