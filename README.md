@@ -6,7 +6,10 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br><br>
+
 - 🌱 I’m currently learning **Java, DSA, React Native**
+
+- 👨‍💻 All of my projects are available at [https://vaibhavashta.github.io/](https://vaibhavashta.github.io/)
 
 - 💬 Ask me about **DSA, Web Development**
 
@@ -27,7 +30,7 @@
       alt="vaibhavashta" height="30" width="40" /></a>
   <a href="https://discord.gg/871384972299239424" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="871384972299239424" height="30" width="40" /></a>
+      alt="vaibhavashta" height="30" width="40" /></a>
 </p>
 
 <p>
