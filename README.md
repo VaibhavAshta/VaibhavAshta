@@ -7,13 +7,17 @@
 
 <br><br>
 
+<p style="font-size: 17.5px;">
+    
 - 🌱 I’m currently learning **Java, DSA, React Native**
 
 - 👨‍💻 All of my projects are available at [https://vaibhavashta.github.io/](https://vaibhavashta.github.io/)
 
 - 💬 Ask me about **DSA, Web Development**
 
-- 📫 How to reach me **vaibhavashta2000@gmail.com**
+- 📫 How to reach me **vaibhavashta2000@gmail.com**    
+</p>
+
 
 <br><br>
 
