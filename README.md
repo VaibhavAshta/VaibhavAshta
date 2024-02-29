@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Ashta</h1>
+<!-- <h1 align="center">
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6E96&center=true&vCenter=true&random=false&width=434&lines=Hi%2C+There+👋;This+is+Vaibhav;Nice+To+Meet+You!"
+      alt="Typing SVG"
+    />
+  </a> -->
 <h3 align="center">Tech Alchemist <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif"
     width="30px"> and a Design Dynamo <img
     src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, endlessly enhancing,
