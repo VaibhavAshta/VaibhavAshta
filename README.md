@@ -114,7 +114,9 @@
     height="150" alt="streak graph" />
 <!--   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavashta&radius=16&theme=github-light&area=true&order=5&hide_title=true&hide_border=false"
-    height="300" alt="activity-graph graph" /> -->
+    height="300" alt="activity-graph graph" /> 
+  <img alt="message" width="50px" src="https://clipart-library.com/images/8iGnXoaia.gif">
+  <img alt="portfolio" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif">-->
 </div>
 
 ###
