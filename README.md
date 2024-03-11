@@ -14,7 +14,7 @@
 
 <br><br>
 
-<p style="font-size: 17.5px;">
+<p style="font-size: 18.5px;">
     
 - 🌱 I’m currently learning **Java, DSA, React Native**
 
