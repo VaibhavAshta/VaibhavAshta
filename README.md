@@ -10,11 +10,11 @@
     width="30px"> and a Design Dynamo <img
     src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, endlessly enhancing,
   exploring, and evolving.</h3>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br><br>
 
-<p style="font-size: 18.5px;">
+<p style="font-size: 20px;">
     
 - 🌱 I’m currently learning **Java, DSA, React Native**
 
@@ -28,7 +28,7 @@
 
 <br><br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src='https://github.com/VaibhavAshta/VaibhavAshta/assets/88577836/043ca796-3cd2-477b-97f9-916b02c26aa4' width="40"> </h3>
 <p align="left">
   <a href="https://twitter.com/vaibhavashta" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
