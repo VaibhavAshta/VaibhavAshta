@@ -1,5 +1,8 @@
-<h1 align="center" style="color: black;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=34&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%2C;I'm+Vaibhav+Ashta;Nice+to+Meet+You!" alt="Typing SVG" /></a>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img
+        src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=34&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%2C;I'm+Vaibhav+Ashta;Nice+to+Meet+You!"
+        alt="Typing SVG" />
+    </a>
 </h1>
 
 <h3 align="center">Tech Alchemist <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif"
