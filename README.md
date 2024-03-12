@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color: black;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=34&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%2C;I'm+Vaibhav+Ashta;Nice+to+Meet+You!" alt="Typing SVG" /></a>
 </h1>
 
@@ -76,7 +76,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📊 Github Stats
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=vaibhavashta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1"
     height="150" alt="stats graph" />
@@ -86,11 +86,19 @@
   <img
     src="https://streak-stats.demolab.com?user=vaibhavashta&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3"
     height="150" alt="streak graph" />
-<!--   <img
+   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavashta&radius=16&theme=github-light&area=true&order=5&hide_title=true&hide_border=false"
     height="300" alt="activity-graph graph" /> 
   <img alt="message" width="50px" src="https://clipart-library.com/images/8iGnXoaia.gif">
-  <img alt="portfolio" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif">-->
-</div>
+  <img alt="portfolio" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif">
+</div> -->
+
+<!-- prettier-ignore-start -->
+| <img src="https://github-readme-stats.vercel.app/api?username=vaibhavashta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" alt="stats graph" /> | <img src="https://streak-stats.demolab.com?user=vaibhavashta&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" alt="streak graph" /> |
+|--------------- | --------------- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavashta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" alt="languages graph" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavashta&radius=16&theme=github-light&area=true&order=5&hide_title=true&hide_border=false" alt="activity-graph graph" width="600" />|
+<!-- prettier-ignore-end -->
+
+
 
 ###
