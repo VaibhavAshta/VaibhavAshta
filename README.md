@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Ashta</h1>
-<!-- <h1 align="center">
-  <a href="https://git.io/typing-svg"
-    ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6E96&center=true&vCenter=true&random=false&width=434&lines=Hi%2C+There+👋;This+is+Vaibhav;Nice+To+Meet+You!"
-      alt="Typing SVG"
-    />
-  </a> -->
-<h3 align="center">Tech Alchemist <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif"
-    width="30px"> and a Design Dynamo <img
-    src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, endlessly enhancing,
-  exploring, and evolving.</h3>
-<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&duration=3000&pause=1000&color=000000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%2C;I'm+Vaibhav+Ashta;Nice+to+Meet+You!" alt="Typing SVG" /></a>
+</h1>
 
+<h3 align="center">Tech Alchemist <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif"
+        width="30px"> and a Design Dynamo <img
+        src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, endlessly
+    enhancing,
+    exploring, and evolving.</h3>
+<img align="right" alt="Coding" width="375" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  
 <br><br>
 
 <p style="font-size: 20px;">
