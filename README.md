@@ -82,7 +82,7 @@
 <!-- prettier-ignore-start -->
 | <img src="https://github-readme-stats-vaibhav-ashtas-projects.vercel.app/api?username=vaibhavashta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" alt="stats graph" /> | <a href="https://github-readme-stats-vaibhav-ashtas-projects.vercel.app/"><img src="https://streak-stats.demolab.com?user=vaibhavashta" alt="GitHub Streak" /></a> |
 |--------------- | --------------- |
-| <img src="https://github-readme-stats-vaibhav-ashtas-projects.vercel.app/api/top-langs?username=vaibhavashta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" alt="languages graph" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavashta&radius=16&theme=github-light&area=true&order=5&hide_title=true&hide_border=false" alt="activity-graph graph" width="600" />|
+| <img src="https://github-readme-stats-vaibhav-ashtas-projects.vercel.app/api/top-langs?username=vaibhavashta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" alt="languages graph" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavashta&radius=16&theme=github-light&area=true&order=5&hide_title=true&hide_border=false" alt="activity-graph graph" width="700" height="250" />|
 <!-- prettier-ignore-end -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
