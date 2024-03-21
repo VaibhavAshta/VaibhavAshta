@@ -86,22 +86,4 @@
 <!-- prettier-ignore-end -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-<!-- <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vaibhavashta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1"
-    height="150" alt="stats graph" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavashta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2"
-    height="150" alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com?user=vaibhavashta&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3"
-    height="150" alt="streak graph" />
-   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavashta&radius=16&theme=github-light&area=true&order=5&hide_title=true&hide_border=false"
-    height="300" alt="activity-graph graph" /> 
-  <img alt="message" width="50px" src="https://clipart-library.com/images/8iGnXoaia.gif">
-  <img alt="portfolio" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif">
-</div> -->
 ###
