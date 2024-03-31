@@ -51,10 +51,6 @@
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
     alt="vaibhavashta" height="40" width="40" />&nbsp&nbsp
 </a>
-<!-- <a href="https://www.codechef.com/users/vaibhavashta" target="blank"><img align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavashta" height="40"
-    width="40" />&nbsp&nbsp
-</a> -->
 <a href="https://auth.geeksforgeeks.org/user/vaibhavashta2000" target="blank">
   <img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
@@ -86,3 +82,7 @@
 <!-- prettier-ignore-end -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <a href="https://www.codechef.com/users/vaibhavashta" target="blank"><img align="center"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavashta" height="40"
+    width="40" />&nbsp&nbsp
+</a> -->
