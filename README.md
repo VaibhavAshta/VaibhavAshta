@@ -44,7 +44,8 @@
       alt="vaibhavashta" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Coding Profiles:</h3>
+<h3 align="left">Coding Profiles: <img src='https://github.com/VaibhavAshta/GitHub-Practice/assets/88577836/65cef4bd-6a7c-4c57-b050-dfbf447bbc15' width="55"></h3> 
+<p align="left">
 <p align="left">
 <a href="https://www.leetcode.com/vaibhavashta" target="blank">
   <img align="center"
